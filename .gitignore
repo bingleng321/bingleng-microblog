@@ -1,0 +1,7 @@
+#Distribution / packaging
+
+pp.db
+search.db
+flask/
+*.mo
+
